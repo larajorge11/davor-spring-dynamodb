@@ -1,4 +1,4 @@
-package com.davor.dynamodb.davor.dynamodb;
+package com.davor.dynamodb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
